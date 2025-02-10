@@ -1,4 +1,4 @@
-package DSA_practice.Arrays;
+package DSA_practice.DataStructures.Arrays;
 
 public class Array_Intro {
     public static void main(String[] args){
