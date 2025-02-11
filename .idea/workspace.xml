@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb8f90f0-0208-4c01-8840-262a79a6b716" name="Changes" comment="" />
+    <list default="true" id="bb8f90f0-0208-4c01-8840-262a79a6b716" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coding2025/src/DSA_practice/Basics/Patterns/NumberPattern/Pattern11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Coding2025/src/DSA_practice/Basics/Patterns/NumberPattern/Pattern11.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -18,30 +24,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Java Scratch.rk.java.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/Coding2025&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Java Scratch.rk.java.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/Coding2025/Coding2025",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Java Scratch.rk.java">
-    <configuration name="rk.java" type="Java Scratch">
-      <option name="MAIN_CLASS_NAME" value="rk" />
-      <module name="Coding2025" />
-      <option name="SCRATCH_FILE_URL" value="file://C:/Program Files/Java/jdk-23/bin" />
+}]]></component>
+  <component name="RunManager" selected="Application.Pattern11">
+    <configuration name="Pattern11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_practice.Basics.Patterns.NumberPattern.Pattern11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA_practice.Basics.Patterns.NumberPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Java Scratch">
+      <option name="ALTERNATIVE_JRE_PATH" value="23 (2)" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <shortenClasspath name="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,8 +86,13 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Java Scratch.rk.java" />
+      <item itemvalue="Application.Pattern11" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pattern11" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -91,6 +115,10 @@
       <workItem from="1739049649248" duration="264000" />
       <workItem from="1739050165348" duration="28000" />
       <workItem from="1739078453609" duration="373000" />
+      <workItem from="1739272007149" duration="86000" />
+      <workItem from="1739272121539" duration="119000" />
+      <workItem from="1739272264200" duration="52000" />
+      <workItem from="1739272367987" duration="71000" />
     </task>
     <servers />
   </component>
