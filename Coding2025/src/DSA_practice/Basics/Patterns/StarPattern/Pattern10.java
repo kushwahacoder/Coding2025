@@ -1,18 +1,15 @@
 package DSA_practice.Basics.Patterns.StarPattern;
 
 import java.util.Scanner;
-
 /*
 
         *
-    *	   	*
- *				*
-    *	    *
+    *       *
+*               *
+    *       *
         *
 
-
 */
-
 public class Pattern10 {
     public static void main(String[] args){
         System.out.println("This is Pattern5");

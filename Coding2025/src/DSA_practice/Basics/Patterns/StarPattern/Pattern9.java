@@ -3,15 +3,13 @@ package DSA_practice.Basics.Patterns.StarPattern;
 import java.util.Scanner;
 /*
 
- *				*
-    *		*
+*               *
+    *       *
         *
-    *		*
- *				*
+    *       *
+*               *
 
-
- */
-
+*/
 public class Pattern9 {
     public static void main(String[] args){
         System.out.print("This is Pattern9");
