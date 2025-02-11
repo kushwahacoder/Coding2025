@@ -1,4 +1,4 @@
-package DSA_practice.Basics.Patterns;
+package DSA_practice.Basics.Patterns.StarPattern;
 
 import java.util.Scanner;
 /*
